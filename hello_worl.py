@@ -9,12 +9,6 @@ def print_Kit():
 
 
 
-
-
-
-
-
-
 if __name__ == '__main__':
     print_Kit()
     print_hello()
