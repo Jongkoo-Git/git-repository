@@ -3,4 +3,6 @@ def is_prime_number(x):
         if x % num == 0:
             print("The number {num1} is not a prime number.".format(num1=x))
             return
+        else:
+            break
     print("The number {num1} is a prime number.".format(num1=x))
